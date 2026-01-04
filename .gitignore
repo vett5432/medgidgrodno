@@ -1,0 +1,5 @@
+Режим вывода команд на экран (ECHO) включен.
+node_modules/
+.cache/
+dist/
+build/
